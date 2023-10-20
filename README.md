@@ -1,5 +1,6 @@
-<p align="justify">
-welcome to my GitHub Page. I am Abdullah Azza, and now Computer engineering student at Sumbawa University of Technology.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=25&duration=2000&pause=1000&color=F7F7F7&random=false&width=540&lines=Hi%2C+I'm+Azzam.+Welcome+to+My+Github+%F0%9F%98%81)](https://git.io/typing-svg)
+
+welcome to my GitHub Page. I am Abdullah Azzam, and now Computer engineering student at Sumbawa University of Technology.
 
 ## My favorite tools and technologies ⚙️
 
