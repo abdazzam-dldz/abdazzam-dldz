@@ -12,16 +12,16 @@ welcome to my GitHub Page. I am Abdullah Azzam, and now Computer engineering stu
 <table>
     
   <tr>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="PYTHON" />
+     <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="PYTHON" />
       <br>PYTHON
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <img src="https://skillicons.dev/icons?i=r" width="36" height="36" alt="R" />
       <br>R
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCODE" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCODE" />
       <br>VSCODE
     </td>
     <td align="center" width="96">
