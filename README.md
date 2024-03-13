@@ -22,8 +22,8 @@ Data Enthusiast | Frontend Developer | Computer Engineering Student at Sumbawa U
       <br>R
     </td>
     <td align="center"  width="80">
-        <img src="https://skillicons.dev/icons?i=tensoflow" width="36" height="36" alt="TENSORFLOW" />
-      <br>Tensorfo
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TENSORFLOW" />
+      <br>Tensorflow
     </td>
     <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCODE" />
