@@ -34,6 +34,10 @@ Data Enthusiast | Frontend Developer | Computer Engineering Student at Sumbawa U
       <br>DJANGO
     </td>
     <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=figma" width="36" height="36" alt="FIGMA" />
+      <br>FIGMA
+    </td>
+    <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCODE" />
       <br>VSCODE
     </td>
