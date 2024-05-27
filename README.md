@@ -14,16 +14,12 @@ Data Enthusiast | Frontend Developer | Computer Engineering Student at Sumbawa U
     
   <tr>
      <td align="center"  width="80">
-        <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="PYTHON" />
+        <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" />
       <br>PYTHON
     </td>
-    <td align="center"  width="80">
-        <img src="https://skillicons.dev/icons?i=r" width="36" height="36" alt="R" />
-      <br>R
-    </td>
-    <td align="center"  width="80">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TENSORFLOW" />
-      <br>Tensorflow
+     <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="PYTHON" />
+      <br>PYTHON
     </td>
     <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCODE" />
