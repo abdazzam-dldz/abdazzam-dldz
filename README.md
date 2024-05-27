@@ -15,11 +15,23 @@ Data Enthusiast | Frontend Developer | Computer Engineering Student at Sumbawa U
   <tr>
      <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" />
-      <br>PYTHON
+      <br>HTML
+    </td>
+    <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="BOOTSTRAP" />
+      <br>BOOTSTRAP
     </td>
      <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="PYTHON" />
       <br>PYTHON
+    </td>
+    <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="DJANGO" />
+      <br>DJANGO
     </td>
     <td align="center"  width="80">
         <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VSCODE" />
@@ -29,6 +41,10 @@ Data Enthusiast | Frontend Developer | Computer Engineering Student at Sumbawa U
         <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GITHUB" />
       <br>GITHUB
     </td>
+    <td align="center"  width="80">
+        <img src="https://skillicons.dev/icons?i=notion " width="36" height="36" alt="NOTION" />
+      <br>NOTION
+    </td>  
   </tr>
   
 
