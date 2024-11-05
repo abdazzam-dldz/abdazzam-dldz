@@ -1,10 +1,8 @@
 ![ezgif com-resize](https://github.com/abdazzam-dldz/abdazzam-dldz/assets/111675078/42cbdfea-38ee-4f0c-ab28-4f9fa1c1e549)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=25&duration=2000&pause=1000&color=F7F7F7&random=false&width=540&lines=Hi%2C+I'm+Azzam.+Welcome+to+My+Github+%F0%9F%98%81)](https://git.io/typing-svg)<br>
-Data Enthusiast | Web Developer 
-
+Data Enthusiast 📊 | Web Developer 💻
 <br>
-
 
 ## My favorite tools and technologies ⚙️
 
